@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "zmanbar",
+  "name": "ZmanBar",
+  "version": "1.0.0",
+  "author": "Community",
+  "description": "Hebrew date pill for the bar, with a click-through detail popup",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Hebrew Date",
+    "description": "Hebrew date pill with detail popup",
+    "category": "Info",
+    "allowMultiple": false
+  }
+}
