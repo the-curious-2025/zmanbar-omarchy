@@ -2,9 +2,6 @@
 
 Puts the Hebrew date in your bar. Click it for the full date.
 
-```
-ח׳ תשרי תשפ״ז
-```
 
 ## Why this exists
 
